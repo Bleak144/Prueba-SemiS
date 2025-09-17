@@ -1,0 +1,14 @@
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.AssemblyInfoInputs.cache
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.AssemblyInfo.cs
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.csproj.CoreCompileInputs.cache
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\bin\Debug\net8.0\PruebaSemisenior.exe
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\bin\Debug\net8.0\PruebaSemisenior.deps.json
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\bin\Debug\net8.0\PruebaSemisenior.runtimeconfig.json
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\bin\Debug\net8.0\PruebaSemisenior.dll
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\bin\Debug\net8.0\PruebaSemisenior.pdb
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.dll
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\refint\PruebaSemisenior.dll
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.pdb
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\PruebaSemisenior.genruntimeconfig.cache
+C:\Users\uchih\source\repos\PruebaSemisenior\PruebaSemisenior\obj\Debug\net8.0\ref\PruebaSemisenior.dll

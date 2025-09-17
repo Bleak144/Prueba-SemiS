@@ -1,0 +1,21 @@
+{
+  "Elementos": [
+    {
+      "Nombre": "E2",
+      "Peso": 3,
+      "Calorias": 5
+    },
+    {
+      "Nombre": "E4",
+      "Peso": 1,
+      "Calorias": 8
+    },
+    {
+      "Nombre": "E5",
+      "Peso": 2,
+      "Calorias": 3
+    }
+  ],
+  "PesoTotal": 6,
+  "CaloriasTotales": 16
+}
